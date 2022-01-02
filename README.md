@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------
-- 👋 Hi, I’m @Muhammad-Nafiz
+- 👋 Hi, I’m @NafizTech
 - 🌱 I’m currently learning Python, Javascript, Css, and Unity
 - 👀 I’m interested in Web Development, Python, javascript, and Game Devlopment
 - ❤️ I built my first website which is called : EduFord Universities
